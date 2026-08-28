@@ -130,13 +130,13 @@ pip install pandas matplotlib seaborn
 Open `stock_market_analysis.py` and update:
 
 ```python
-file_path = r"your_complete_path_here\stock_data.csv"
+file_path = r"C:\Users\Armin Khareghat\OneDrive\Desktop\AI ML data science\Python\python-projects\stock market analysis\stock_data.csv"
 ```
 
 Example:
 
 ```python
-file_path = r"C:\Users\YourName\Desktop\stock_data.csv"
+file_path = r"C:\Users\Armin Khareghat\OneDrive\Desktop\AI ML data science\Python\python-projects\stock market analysis\stock_data.csv"
 ```
 
 ### 4. Run the Program
