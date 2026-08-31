@@ -397,4 +397,18 @@ The project provides a practical introduction to **data analysis and visualizati
 
 ---
 
+## 👨‍💻 Author
+
+**Armin Khareghat**  
+B.Sc. Computer Science  
+🤖 AI / ML & Data Science 
+
+---
+
+## 📜 License
+
+This project is created for **educational and learning purposes**.
+
+---
+
 ### ⭐ If you found this project useful, consider giving the repository a star!
